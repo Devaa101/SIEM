@@ -1,4 +1,4 @@
-# FUTURE_CS_02
+# SIEM
 # SIEM Alert Monitoring and Incident Response
 
 This project simulates security alert monitoring using mock SIEM data. It demonstrates how to identify suspicious activities, classify incidents, and generate a basic incident response report.
